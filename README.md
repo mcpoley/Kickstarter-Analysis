@@ -10,6 +10,8 @@ The main purpose of this project was to determine what effect (if any) campaign 
 ## Analysis and Challenges
 A view of the data from a categorical perspective showed that the theater campaigns did better than campaigns in other industries. This should be encouraging for Louise. I divided up the mean, median, standard deviation, upper and lower quartile, and IQR of the goals shown in the table below.  A careful analysis seemed to demonstrate that the lower campaign goals correlated with a higher level of successful campaign outcomes. This is proven when one looks at the mean goal of the successful outcomes ($5,049) with mean goal of the failed outcomes ($60,556). The median yields a similar comparison ($3,000 vs. $8,000 consecutively).  The greatest number of successful outcomes occurred with goals of less than $1000. A study of launch dates and outcomes yields the highest success rate around the months of May and June.
 
+![Variance_Measurements](path/to/Variance_Measurements.png)
+
 ### Analysis of Outcomes Based on Launch Date
 Looking at the annual success of outcomes, 2009, for the most part was a bad year for campaigns. The years 2014 and 2016 were fairly successful campaign years. When looking at the monthly outcomes, there was an initial boom in campaign success from January to February, followed by a steady decline from February to March. From then, campaigns began to pick up again until June and began to steadily decline after that. The greatest amount of failing campaigns occurred in October. There was no notable trend in monthly cancelations, other than that there were no cancelations in the month of October. 
 
