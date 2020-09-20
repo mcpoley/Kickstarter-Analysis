@@ -14,10 +14,10 @@ A view of the data from a categorical perspective showed that the theater campai
 
 ### Analysis of Outcomes Based on Launch Date
 Looking at the annual success of outcomes, 2009, for the most part was a bad year for campaigns. The years 2014 and 2016 were fairly successful campaign years. When looking at the monthly outcomes, there was an initial boom in campaign success from January to February, followed by a steady decline from February to March. From then, campaigns began to pick up again until June and began to steadily decline after that. The greatest amount of failing campaigns occurred in October. There was no notable trend in monthly cancelations, other than that there were no cancelations in the month of October. 
-
+![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 There was an overall negative correlation between the number of successful campaigns to goals. This also proved true for the number of cancelations to goals. When comparing the percentage successful to goal amount in U.S. dollars, there seemed to be an initial plummet in success as the goal amount increased. This continued until the goal amount reached the range of $35,000-40,000. At this point the campaigns increased in success with higher goals. As one would expect, there was an inverse relationship between percentage successful and failed. The percentage failed was overall positively correlated with goal value. 
-
+![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 One challenge with this project is that canceled and live campaigns leave an unknown result. There is no way of knowing what these campaigns could have yielded if they had continued unhindered (in the case of the canceled), or concluded (in the case of the live). 
 
